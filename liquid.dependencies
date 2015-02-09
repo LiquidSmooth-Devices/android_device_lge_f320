@@ -1,15 +1,15 @@
 [
   {
     "remote":      "gh",
-    "repository":  "G2Liquid/android_device_lge_g2-common",
+    "repository":  "G2Staging/android_device_lge_g2-common",
     "target_path": "device/lge/g2-common",
     "revision":    "lollipop"
   },
   {
     "remote":      "gh",
-    "repository":  "G2Liquid/android_device_qcom_common",
+    "repository":  "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision":    "lollipop"
+    "revision":    "cm-12.0"
   },
   {
     "remote":      "gh",
@@ -25,7 +25,7 @@
   },
   {
     "remote":      "gh",
-    "repository":  "G2Liquid/android_platform_vendor_lge",
+    "repository":  "G2Staging/proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "revision":    "lollipop"
   }
